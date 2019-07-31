@@ -1,0 +1,6 @@
+/*css中也放了背景图片*/
+
+body {
+    color: red;
+    background-image: url('../images/done.jpg');
+}

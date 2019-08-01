@@ -25,12 +25,12 @@
     import Todo from './todo/todo.vue'
 
     export default {
+        name: "todoApp",
         // 声明使用该组件，这样就可以在template中使用该组件
         components : {
             Header,
             Footer,
             Todo,
-
         }
     }
 

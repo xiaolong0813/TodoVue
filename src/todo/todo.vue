@@ -23,6 +23,7 @@
               :todoProp="todo"
               @del="deleteItem"
         ></item>
+<!--        test-->
 
         <!--        将todos数据绑定到tabs组件的属性filterProp上-->
 <!--        通过数组中todo为completed的状态的元素个数计算未完成任务个数等-->
